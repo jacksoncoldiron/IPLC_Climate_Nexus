@@ -46,5 +46,6 @@ including mammals, amphibians, birds, reptiles, and plants.
 
 - Species Richness and Rarity-Weighted Richness (IUCN, 2024). Indicates relative importance by
 proportionally accounting for individual species’ habitat range.
-● Red List Species Habitat Suitability (Brooks et al., 2019). Refines species ranges from the IUCN Red
+
+- Red List Species Habitat Suitability (Brooks et al., 2019). Refines species ranges from the IUCN Red
 List by focusing on habitat suitability.
