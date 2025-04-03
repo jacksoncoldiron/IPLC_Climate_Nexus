@@ -7,6 +7,8 @@ Bren MESM Group Project repo for Assessing Climate Risks to Indigenous Peoples &
 
 **Client:** Conservation International
 
+**Advisors:** Dr. Bruce Kendall, Emma Rigatti
+
 **Objectives:**
   1) Produce global and regional (Amazonia) maps of 8 major climate change impacts and risks to IPs &
      LCs, their territories, and the biodiversity and carbon within these regions.
