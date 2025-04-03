@@ -18,26 +18,33 @@ Bren MESM Group Project repo for Assessing Climate Risks to Indigenous Peoples &
 ## Data Sources
 
 **IPs & LCs Territories & Tenure:**
-● IPs & LCs’ Territories & Tenure (Sushma et al., 2024). Provides geospatial datasets corresponding to
+
+- IPs & LCs’ Territories & Tenure (Sushma et al., 2024). Provides geospatial datasets corresponding to
 legally recognized, collectively, and communally governed or managed IPs & LCs’ lands and waters
 covering 9.8 M km2 across 57 countries.
 
 **Climate & Carbon:**
-● Climate Vulnerability (Donatti et al., 2023). Identifies vulnerability of the global human population
+
+- Climate Vulnerability (Donatti et al., 2023). Identifies vulnerability of the global human population
 to 8 major climate impacts–river and coastal floods, heatwave, wildfire, food security, landslide,
 vector borne diseases, water stress–and locates areas where conservation, restoration, or improved
 land management could potentially reduce human vulnerability to climate impacts.
-● Irrecoverable Carbon (Noon et al., 2022). Offers maps and data on carbon vulnerable to human
+
+- Irrecoverable Carbon (Noon et al., 2022). Offers maps and data on carbon vulnerable to human
 influence that if lost, could not be restored within 30 years.
-● Biomass Carbon Density (Spawn et al., 2020). Presents a global map of carbon density within
+
+- Biomass Carbon Density (Spawn et al., 2020). Presents a global map of carbon density within
 terrestrial ecosystems.
-● Carbon Storage Potential (Walker et al., 2022). Assesses current and future unrealized potential
+
+- Carbon Storage Potential (Walker et al., 2022). Assesses current and future unrealized potential
 carbon storage under RCP8.5 out to 2050.
 
 **Biodiversity:**
-● Red List of Threatened Species (IUCN, 2024). Contains spatial data for over 130,000 species,
+
+- Red List of Threatened Species (IUCN, 2024). Contains spatial data for over 130,000 species,
 including mammals, amphibians, birds, reptiles, and plants.
-● Species Richness and Rarity-Weighted Richness (IUCN, 2024). Indicates relative importance by
+
+- Species Richness and Rarity-Weighted Richness (IUCN, 2024). Indicates relative importance by
 proportionally accounting for individual species’ habitat range.
 ● Red List Species Habitat Suitability (Brooks et al., 2019). Refines species ranges from the IUCN Red
 List by focusing on habitat suitability.
